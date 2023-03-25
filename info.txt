@@ -1,0 +1,17 @@
+Completar en base al código HTML actual de las páginas de Amazon e eBay
+
+    Información de productos de Amazon
+
+- Url de resultado:   https://www.amazon.com/s?k=logitech+c922&crid=1SIWV6DVTYIBV&sprefix=logitech+c922%2Caps%2C163&ref=nb_sb_noss_1  
+- Producto:           <div class="s-result-item">  
+- Nombre:             <span class="a-size-medium a-color-base a-text-normal">  
+- Precio:             <span class="a-price">  
+- URL:                <a class="a-link-normal a-text-normal">  
+                        
+    Información de productos de Ebay
+
+- Url de resultado:   https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=logitech+c922&_sacat=0  
+- Producto:           <li class="s-item">  
+- Nombre:             <h3 class="s-item__title">  
+- Precio:             <span class="s-item__price">  
+- URL:                <a class="s-item__link">
